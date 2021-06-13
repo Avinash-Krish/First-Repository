@@ -3,3 +3,5 @@
 Just getting to know about GitHub
 
 Updating the readme file
+
+Made some edits
