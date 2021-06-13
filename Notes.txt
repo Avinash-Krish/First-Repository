@@ -3,3 +3,5 @@ Hasn't been modified
 TO NOTE: Cannot backout after commiting
 
 Trying out git stash pop
+
+C:\Users\Lenovo/.ssh/id_rsa.pub - type in the texteditor name and then paste this to get the public key
